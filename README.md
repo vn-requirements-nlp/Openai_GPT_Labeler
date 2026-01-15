@@ -73,6 +73,3 @@ Sinh ra:
 python src/06_calculate_kappa_final.py
 ```
 Sinh report: `output/Kappa_Reliability_Report.csv`.
-
-## Lưu ý về tên file trong src
-Các file trong `src/` hiện được đánh số để dễ theo dõi. Nếu chạy gặp lỗi import `src.config` hoặc `src.llm_client`, hãy đảm bảo có file `src/config.py` và `src/llm_client.py` (có thể đổi tên/copy từ `src/01_config.py` và `src/02_llm_client.py`).
