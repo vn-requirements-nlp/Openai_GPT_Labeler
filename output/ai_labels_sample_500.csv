@@ -1,0 +1,501 @@
+﻿ID,RequirementText,Functional (F),Availability (A),Fault Tolerance (FT),Legal (L),Look & Feel (LF),Maintainability (MN),Operability (O),Performance (PE),Portability (PO),Scalability (SC),Security (SE),Usability (US)
+5382,"User shall be able to manage the user portfolio, providing access to new users and deleting inactive employees.",1,0,0,0,0,0,1,0,0,0,0,0
+6660,User shall click on any particular passport for checking data.,1,0,0,0,0,0,0,0,0,0,0,0
+7500,The system shall allow consumers to search for data packages by publisher.,1,0,0,0,0,0,0,0,0,0,0,0
+3146,A method MUST be found how to allocate identifiers to the participants that use the infrastructure for transportation of VCDs and related services,1,0,0,0,0,0,1,0,0,0,1,0
+7014,System shall not store any cookies containing the user's password or confidential information on the customer's computer.,0,0,0,0,0,0,0,0,0,0,1,0
+922,The system shall provide browsing options to see product details.,1,0,0,0,0,0,0,0,0,0,0,0
+8696,The software output shall be viewable in a web browser.,0,0,0,0,0,0,1,0,0,0,0,0
+2719,"Create layer that includes ""cones of depression"" for the MFL information, which will indicate the area of influence to an MFL.",1,0,0,0,0,0,0,0,0,0,0,0
+5016,The carpool system shall allow users to define their availability and automatically assign them as drivers based on pre-determined criteria.,1,0,0,0,0,0,0,0,0,0,0,0
+3308,The mapping has to be easily maintainable which could be of interest in the case of changes of the legal basis on national or European level. A formal procedure has to be found how changes are applied to the system. Moreover an organisation or institution that governs the process of change management has to be defined.,0,0,0,1,0,1,1,0,0,0,0,0
+9400,"User shall access the system concurrently with a minimum capacity of 100 simultaneous users, maintaining performance.",0,0,0,0,0,0,0,1,0,1,0,0
+6736,The software shall offer an essential non-functional requirement highlighting its operation.,1,0,0,0,0,0,0,0,0,0,0,0
+4787,The system must allow a member of the network to send requests to a particular or all the other members about possible delivery of a driver's smart card to a similar person.,1,0,0,0,0,0,0,0,0,0,0,0
+2130,After overriding this function the movement authority shall be re-established.,1,0,1,0,0,0,0,0,0,0,0,0
+4112,"The user shall be able to search for restaurants by any criteria (name, description, address, type, or menu) in a free-text field, with results shown on a map.",1,0,0,0,0,0,0,0,0,0,0,0
+7939,The system shall allow assistant archivists to upload staff-generated working papers.,1,0,0,0,0,0,0,0,0,0,0,0
+6190,"When in billing mode, a surface computer shall display a representation of a cash payment for the whole table.",1,0,0,0,0,0,0,0,0,0,0,0
+1889,"The system shall be capable of storing notes in plain text and XML, and shall maximize the notes field size. The user shall be capable of setting the size of the notes field.",1,0,0,0,0,0,0,0,0,1,0,0
+7595,System shall maintain backward compatibility and smooth dependency installation for Ubuntu 10.04 LTS.,0,0,0,0,0,0,1,0,1,0,0,0
+2690,The same datasets need to be used by all departments or sections of the District.,0,0,0,0,0,0,1,0,1,0,0,0
+1632,"When the user logs onto the system on the date of their reminder, they shall receive a popup window displaying their reminder message.",1,0,0,0,0,0,0,0,0,0,0,0
+2817,"All archived chats, e-mail, file share, and IM Messages are governed by the NJIT E-mail use policy. The user is encouraged to view the content at the NJIT homepage for detailed use of the policy and restrictions and limitations of the policy.",0,0,0,1,0,0,0,0,0,0,0,0
+6348,The hardware requirements include a computer with at least 256 MB RAM and internet connection.,0,0,0,0,0,0,1,0,0,0,0,0
+7448,The system shall allow deleting user accounts.,1,0,0,0,0,0,0,0,0,0,0,0
+7901,System shall support dataset deposition and management via SWORD2 API for interoperability.,1,0,0,0,0,0,1,0,0,0,0,0
+5501,User shall be able to log in with a valid login ID and password.,1,0,0,0,0,0,0,0,0,0,1,0
+2499,The System shall deliver A-DCS Data Products from IDPS to the US Global Processing Center within 1 minute of their receipt.,1,0,0,0,0,0,0,1,0,0,0,0
+6420,"Alternatively, the user can push the ""Ctrl+C"" key combination or right-click the mouse and select the ""Copy Item"" button from the context menu.",1,0,0,0,0,0,0,0,0,0,0,1
+1176,Requests of subsystems for status information must be answered within 5 sec and be possible in maintenance level operation.,0,0,0,0,0,0,1,1,0,0,0,0
+1579,Each Member of this network will organise its data about smart card holders with no constraints or recommendations on operating system and/or technology used. The system will be able to dialog with these environments or specify a generic interface to dialog with the Memberâ€™s applications.,1,0,0,0,0,0,1,0,1,0,0,0
+6071,The user shall be able to select a subject from a drop-down menu or add a new subject.,1,0,0,0,1,0,0,0,0,0,0,0
+4849,Realtor shall be able to generate a CMA report based on property criteria.,1,0,0,0,0,0,0,0,0,0,0,0
+2615,The system must allow actors in the capacity of course administrator to post grades associated with assignments for a particular actor in the capacity of student. Actors in the role of professor may want to optionally grade assignments online since they are being submitted electronically by actors in the role of student.,1,0,0,0,0,0,0,0,0,0,1,0
+7641,System shall maintain backward compatibility and smooth dependency installation.,0,0,0,0,0,1,1,0,1,0,0,0
+7840,System shall integrate with Pure to enable dataset deposition and management within the platform.,1,0,0,0,0,0,1,0,0,0,0,0
+9224,Backups of the database shall be retrieved and saved by the administrator in case of hardware failure or database corruption.,1,0,1,0,0,0,1,0,0,0,0,0
+5218,Authorization login shall be required when the software starts.,1,0,0,0,0,0,0,0,0,0,1,0
+8543,Administrator shall be able to remove videos by entering the video name and receive confirmation of successful removal.,1,0,0,0,0,0,0,0,0,0,0,1
+1278,The GUI shall provide a list of previously entered lane closures.,1,0,0,0,0,0,0,0,0,0,0,0
+9129,The system shall authenticate users using their account credentials.,0,0,0,0,0,0,0,0,0,0,1,0
+4000,"In the Twitter settings menu, the system shall allow the user to delete their saved username and password for Twitter.",1,0,0,0,0,0,0,0,0,0,0,0
+2856,Users must enable java scripts on their systems to be able to install Instant-Edu messaging software,0,0,0,0,0,0,0,0,1,0,0,1
+7910,"The system shall allow repository managers to create, describe, and update objects.",1,0,0,0,0,0,0,0,0,0,0,0
+4774,The vertical axis of the color map of the history window shall indicate hour of the day and the horizontal axis shall indicate the absolute date and the day of week.,1,0,0,0,1,0,0,0,0,0,0,0
+4607,"Reliability will be ensured by extensive testing by the team members and mentors, if available.",0,1,1,0,0,0,0,0,0,0,0,0
+6051,The Tasks window shall display all current and upcoming tasks to the user.,1,0,0,0,0,0,0,0,0,0,0,0
+7354,The system shall allow staff members to capture hearing decisions for enforcement.,1,0,0,0,0,0,0,0,0,0,0,0
+4300,System shall be able to delete user location information nightly via a cron job.,1,0,0,0,0,0,0,0,0,0,0,0
+1576,The system should be able to support other types of message structure to cover f.i. a future driving licence network and correlated activities.,1,0,0,0,0,0,0,0,0,0,0,0
+8557,The website shall focus on software quality attributes such as security and performance.,0,0,0,0,0,0,0,1,0,0,1,0
+3887,The user interfaces shall be according to the Android User Interface Guidelines.,0,0,0,1,1,0,0,0,0,0,0,0
+6996,"User shall enter card details for online payment, with the system verifying their validity.",1,0,0,0,0,0,0,0,0,0,0,0
+6629,"System shall prompt ""OTP sent to mobile and email"" for verification.",1,0,0,0,0,0,0,0,0,0,0,0
+8253,System shall not store user passwords in cookies on the customer’s computer.,0,0,0,0,0,0,0,0,0,0,1,0
+1771,"Exposure investigation data to be captured must include information related to exposure levels, type of exposure (e.g., intimate, social, household, common conveyance), place of exposure, length of time the entity was exposed, frequency of exposure, and the entityâ€™s proximity to the source of exposure.",1,0,0,0,0,0,0,0,0,0,0,0
+3474,The ELSS must provide Electronic Logbook data for transmission to the UK fisheries administrationsâ€™ ERS system in accordance with the frequency requirements defined below (Section 5.1).,1,0,0,1,0,0,0,0,0,0,0,0
+1480,Loss of e2e â€“ the system shall continue to operate in a loss-less manner in the event of a temporary (time duration TBD) loss of availability of the e2e System.,0,1,1,0,0,0,0,0,0,0,0,0
+4402,Users shall be able to access functionalities based on their assigned roles.,0,0,0,0,0,0,0,0,0,0,1,0
+1617,Each student shall only belong to one class.,1,0,0,0,0,0,0,0,0,0,0,0
+3376,"The user shall be able to provide metadata related to the conversion that will be stored in the converted files (e.g., institution, context, crawler, collection name, ...)",1,0,0,0,0,0,0,0,0,0,0,0
+6214,A supervisor shall be able to abort/purge a table's account/meals from the active system with no expectation of payment.,1,0,0,0,0,0,0,0,0,0,1,0
+484,The lead washing process will operate within the established physical web service structure.,0,0,0,0,0,0,1,0,0,0,0,0
+5594,User shall be able to save and organize favorite websites using bookmarks.,1,0,0,0,0,0,0,0,0,0,0,0
+5661,The system shall provide clear instructions and intuitive navigation for ease of use by all users.,0,0,0,0,0,0,0,0,0,0,0,1
+2471,The DUAP System shall be able to log system operations.,1,0,0,0,0,0,0,0,0,0,0,0
+5004,The idea field shall be limited to a maximum of 250 characters to match the current EDGE system limitation.,1,0,0,0,0,0,0,0,0,0,0,0
+6764,"The system shall specify the content, format, and criteria for generating reports and other data outputs.",1,0,0,0,0,0,0,0,0,0,0,0
+6193,"When in billing mode, a surface computer shall display a representation of tip denominations that may be dragged into a payment.",1,0,0,0,0,0,0,0,0,0,0,0
+7550,"User shall ensure that when deploying a new version of an app including a shared dataset type, only dataset instances created by that app start using the new code.",1,0,0,0,0,0,0,0,0,0,1,0
+9111,"The Student menu allows the user to access profile entry, other details, and result entry.",1,0,0,0,0,0,0,0,0,0,0,0
+8313,System shall be accessible to users with disabilities.,0,0,0,0,0,0,0,0,0,0,0,1
+5214,User shall specify bank details for issuing cheques obtained from selling stocks.,1,0,0,0,0,0,0,0,0,0,0,0
+120,For each class within a sequence for a cohort Program Administrators and Nursing Staff Members shall be able to specify which quarter that class will be offered.,1,0,0,0,0,0,0,0,0,0,0,0
+4376,"For interdepartmental requests, the system shall require approval from both a DA and faculty group member, unless submitted by a higher-level group.",1,0,0,0,0,0,0,0,0,0,0,0
+2338,The DUAP Output Services shall be able to publish traffic data in the VISSIM traffic analysis tool VISSIM interface format.,1,0,0,0,0,0,1,0,1,0,0,0
+3816,The application should support integration with wearable fitness trackers.,1,0,0,0,0,0,0,0,0,0,0,0
+6891,The system shall be available to users 24/7 with minimal downtime.,0,1,1,0,0,0,0,0,0,0,0,0
+1958,The system shall be capable of updating transition probabilities for donothing actions based on historical inspection data.,1,0,0,0,0,0,0,0,0,0,0,0
+7012,System shall have a contractual agreement with an internet service provider for 99.999% availability through their network facilities.,0,1,0,0,0,0,0,0,0,0,0,0
+6578,"System shall ensure 24x7 availability, allowing users to access the system at any time.",0,1,0,0,0,0,0,0,0,0,0,0
+3534,"The system categorizes users on the basis of roles and privileges. Within these roles, the system also categorizes users based on the roles that they have within individual products. These are referred to as user account roles. Mashbot Campaigns supports the following account roles: Contributor, Approver, Publisher",0,0,0,0,0,0,0,0,0,0,1,0
+9036,Users shall be able to register with a unique ID using their email address.,1,0,0,0,0,0,0,0,0,0,0,0
+7650,"User shall be able to view a very clear map showing the buildings and rooms, so that they can make it to class on time.",1,0,0,0,0,0,0,0,0,0,0,1
+1085,Upon the USB being plugged in the system shall be able to be deployed and operational in less than 1 minute.,0,0,0,0,0,0,1,0,0,0,0,0
+1865,"Pontis 5.0 will be designed to be as straightforward and intuitive as possible, and familiar to existing users. The user interface will provide effective navigation, visual referencing, and task sequencing. Users will have access to on-line help throughout the UI.",0,0,0,0,1,0,0,0,0,0,0,1
+5800,User shall/will have passwords stored securely using industry-standard hashing algorithms.,0,0,0,0,0,0,0,0,0,0,1,0
+7381,The system shall store camper records from previous years for reference.,1,0,0,0,0,0,0,0,0,0,0,0
+564,The product shall be robust with fault tolerance.The product shall have fault tolerance by using recovery technique compensatory transaction and routing around failures.,0,0,1,0,0,0,0,0,0,0,0,0
+2112,"E-store should display the disclaimers, copyright, word mark, trademark and product warranties of the Marvel electronics and home entertainment.",1,0,0,1,0,0,0,0,0,0,0,0
+4255,User shall be able to approve an exchange offer from another user by clicking Approve.,1,0,0,0,0,0,0,0,0,0,0,0
+6521,The user interface shall adhere to responsive design principles to ensure optimal viewing and interaction experience across various devices and screen sizes.,0,0,0,0,1,0,0,0,0,0,0,1
+6290,"The website of V Mart shall be user-friendly for non-technical users, regardless of its size.",0,0,0,0,0,0,0,0,0,0,0,1
+9474,System shall send an email to the user's verified email address with a verification code or link to set a new password.,1,0,0,0,0,0,0,0,0,0,1,0
+1150,It is important to design system to facilitated future evolution and facilitate maintenance operations.,0,0,0,0,0,1,0,0,0,0,0,0
+4368,"The system shall utilize help bubbles to assist managers, customers, and administrators",0,0,0,0,1,0,0,0,0,0,0,1
+7360,The system shall allow staff members to issue development-related permits.,1,0,0,0,0,0,0,0,0,0,0,0
+6460,System shall display the uploaded videos on the user's channel.,1,0,0,0,0,0,0,0,0,0,0,0
+7282,The system shall allow visitors to search for upcoming courses and events using an advanced search option.,1,0,0,0,0,0,0,0,0,0,0,0
+6923,The system shall be scalable to accommodate a growing user base and data volume.,0,0,0,0,0,0,0,0,0,1,0,0
+1314,The APAF system shall process the engineering and ancillary information necessary for calibration and science validation into IDFS data sets.,1,0,0,0,0,0,0,0,0,0,0,0
+5654,System shall allow users to reset their passwords through a user-friendly and secure method. It should include verifying identity through security questions or sending verification codes to the registered email or phone number.,1,0,0,0,0,0,0,0,0,0,1,1
+5139,"Social travel application shall send intelligence to the cache with location, timestamp, and metadata.",1,0,0,0,0,0,0,0,0,0,0,0
+1673,"Systems supporting OM must support dynamically defined associations between entities for the purpose of defining relationships. For example, person-to-person (e.g., family relationship, exposure relationship), person-to- place (e.g., household, common place), animal-to-person, object-to-place, person-to-travel.",1,0,0,0,0,0,0,0,0,0,0,0
+4,The system shall offer the ability to pause and resume the refresh of data.,1,0,0,0,0,0,0,0,0,0,0,0
+7092,Admin shall onboard recycling centers on the platform to increase information accuracy.,1,0,0,0,0,0,0,0,0,0,0,0
+6595,"Settings shall include notification settings, app language change, and help menu.",1,0,0,0,0,0,0,0,0,0,0,0
+3856,Users shall have access to personalized health journey maps.,1,0,0,0,0,0,0,0,0,0,0,0
+5670,System shall restrict users from viewing other users' details to ensure privacy and security.,1,0,0,0,0,0,0,0,0,0,1,0
+3371,Provide a way to view crawls deltas for quality assurance,1,0,0,0,0,0,0,0,0,0,0,0
+3154,The PEPPOL infrastructure SHOULD have the capability to submit a bid which contains a VCD.,1,0,0,0,0,0,0,0,0,0,0,0
+4363,The system will do periodic backups through a live internet connection.,1,0,1,0,0,0,0,0,0,0,0,0
+40,Realtor shall be able to generate a CMA report based on property criteria,1,0,0,0,0,0,0,0,0,0,0,0
+2821,The user is responsible for content uploaded. NJIT policy prohibits the use NJIT facilities/assets for personal use.,0,0,0,1,0,0,0,0,0,0,0,0
+8634,The system shall render complex projects faster with a compatible graphics card.,0,0,0,0,0,0,0,1,1,0,0,0
+1619,A waiting list shall store the names and phone numbers of up to 100 potential customers waiting for a classroom opening to enroll their child.,1,0,0,0,0,0,0,0,0,1,0,0
+6720,"If all the tasks are already completed, no task will appear in the view option.",1,0,0,0,0,0,0,0,0,0,0,0
+6153,Users shall be able to send messages to a team of people.,1,0,0,0,0,0,0,0,0,0,0,0
+2555,"The System shall provide the capability to operate in an Open Mode, within which authorized customers shall be allowed read-only access to requested Data Products. This is the nominal system mode.",1,0,0,0,0,0,0,0,0,0,1,0
+6509,"System shall provide notifications for new incoming emails, calendar events, and other relevant updates.",1,0,0,0,0,0,0,0,0,0,0,0
+4140,The system shall be able to update an existing dish in the list upon edit by an administrator.,1,0,0,0,0,0,0,0,0,0,1,0
+8607,The computer shall have a processor that supports 64-bit architecture (multicore Intel or AMD Athlon 64).,0,0,0,0,0,0,0,0,1,0,0,0
+2345,The DUAP Presentation Services shall include a user interface for browsing traffic information.,1,0,0,0,0,0,0,0,0,0,0,0
+3092,A national authority MUST support critical processes in order to increase the trust between the entities involved.,1,0,0,0,0,0,0,0,0,0,1,0
+5301,"Upon touching the how to play button on the menu screen, the how to play screen shall be displayed, and users shall be able to see screenshots of tutorial screens by sliding the windows.",1,0,0,0,0,0,0,0,0,0,0,1
+4794,The system shall provide the management of user rights and permissions,1,0,0,0,0,0,0,0,0,0,1,0
+8594,The system should be secure to protect user data and prevent unauthorized access.,0,0,0,0,0,0,0,0,0,0,1,0
+9112,The Employee menu allows the user to access staff entry and attendance details.,1,0,0,0,0,0,0,0,0,0,0,0
+4249,"User shall be able to browse items and see their pictures, prices, and other features.",1,0,0,0,0,0,0,0,0,0,0,0
+2363,The DUAP System shall require users to log in for system access.,1,0,0,0,0,0,0,0,0,0,1,0
+5282,System shall be able to ensure that the time elapsed between a player making a move and other players updating the game state is under 5 seconds.,0,0,0,0,0,0,0,1,0,0,0,0
+591,The system interface will use CCR nomenclature. The system must use the same nomenclature used in the existing WCS system and reports,0,0,0,0,1,0,0,0,0,0,0,0
+4687,"The CPCC shall be able to function as a high availability computer for real-time correlator operations, hardware monitoring/control, and remote PLD/FPGA updates.",1,1,0,0,0,0,1,1,0,0,0,0
+8711,A user shall be able to select a payment method and complete the payment.,1,0,0,0,0,0,0,0,0,0,0,0
+458,The website shall achieve 99.5% up time.,0,1,0,0,0,0,0,0,0,0,0,0
+5857,Search agents shall automatically send resumes matching specified criteria via email daily.,1,0,0,0,0,0,0,0,0,0,0,0
+5776,System shall back up data every night and restore backups daily to ensure completeness and correctness.,1,0,1,0,0,0,0,0,0,0,0,0
+7153,FABS user shall successfully submit a citywide as a PPoPZIP and pass validations for comprehensive data submission.,1,0,0,0,0,0,0,0,0,0,0,0
+5273,User shall be given the choice of playing single or multiplayer.,1,0,0,0,0,0,0,0,0,0,0,0
+8688,The system shall require a valid user ID and password for access.,0,0,0,0,0,0,0,0,0,0,1,0
+2587,"Currently, there is no system that allows actors to receive SMS or email notifications of changes to Moodle pages (such as assignments or announcements).",1,0,0,0,0,0,0,0,0,0,0,0
+3033,"The system counts all hold requests, including how the hold was placed: at a staff desk, at a public computer inside the library, or remotely.",1,0,0,0,0,0,0,0,0,0,0,0
+6033,System shall automatically log out the user after a period of inactivity.,1,0,0,0,0,0,0,0,0,0,1,0
+4063,User shall be able to search for events by subject.,1,0,0,0,0,0,0,0,0,0,0,0
+8453,System shall allow up to three reattempts for unsuccessful login and display supported languages for successful login.,1,0,0,0,0,0,0,0,0,0,1,1
+7095,Superuser shall reply to user questions to provide assistance.,1,0,0,0,0,0,0,0,0,0,0,0
+8016,"The system shall display information about people, products, brands, and broadcaster logos identified in videos.",1,0,0,0,0,0,0,0,0,0,0,0
+3778,The system should employ network segmentation for enhanced security.,0,0,0,0,0,0,0,0,0,0,1,0
+3995,The system shall be able to tweet about insApption from the main menu.,1,0,0,0,0,0,0,0,0,0,0,0
+9439,"System shall ensure correctness in displaying blog details and content, preventing inaccuracies.",1,0,0,0,0,0,0,0,0,0,0,0
+4511,The TCS shall present to the operator the estimated time of arrival and fuel status at each programmed waypoint of the proposed mission plan.,1,0,0,0,0,0,0,0,0,0,0,0
+2971,GOG must be able to process one complete source processing on 2 CPU seconds.,1,0,0,0,0,0,0,1,0,0,0,0
+8888,System shall minimize the response time between user requests and task completion.,0,0,0,0,0,0,0,1,0,0,0,0
+3722,The system should employ secure storage solutions for sensitive data.,0,0,0,0,0,0,0,0,0,0,1,0
+4033,System shall be able to indicate POIs of a building.,1,0,0,0,0,0,0,0,0,0,0,0
+2116,The system shall allow user to confirm the completion of current configuration,1,0,0,0,0,0,0,0,0,0,0,0
+1514,"Warning Report â€“ warning number (translatable into text warning message), warning source, warning rates (as applicable), and time stamp.",1,0,0,0,0,0,0,0,0,0,0,0
+3838,The system should utilize distributed caching to enhance performance.,0,0,0,0,0,0,0,1,0,1,0,0
+4721,The system shall encrypt messages but cannot guarantee confidentiality due to potential decryption by unauthorized parties.,1,0,0,0,0,0,0,0,0,0,1,0
+5518,System shall support a monitor with a minimum size of 14 inches and VGA resolution.,0,0,0,0,1,0,0,0,1,0,0,0
+7338,The system shall allow staff members to send formal responses to applicants.,1,0,0,0,0,0,0,0,0,0,0,0
+9490,System shall grant access and allow further actions if the ID card is valid.,1,0,0,0,0,0,0,0,0,0,1,0
+1221,The CO must respond within 1 minute in both single and multi player modes.,0,0,0,0,0,0,0,1,0,0,0,0
+3261,The members of this work package MUST perform the mapping between national attestations and European criteria of qualitative selection and exclusion.,1,0,0,0,0,0,0,0,0,0,0,0
+6631,System shall validate the selected files according to specified criteria.,1,0,0,0,0,0,0,0,0,0,0,0
+4964,"The product shall be able to process 10,000 transactions per hour within two years of its launch.",0,0,0,0,0,0,0,1,0,1,0,0
+7786,System shall offer customization options to adapt to different project requirements and workflows.,1,0,0,0,0,0,0,0,0,0,0,0
+7229,The system shall allow users to integrate reference data with their datasets for geographic mapping.,1,0,0,0,0,0,0,0,0,0,0,0
+4844,The system shall allow a real estate agent to query MLS information.,1,0,0,0,0,0,0,0,0,0,0,0
+7911,"The system shall allow associating names, subjects, and rights information with objects.",1,0,0,0,0,0,0,0,0,0,0,0
+3234,A change procedure MUST be defined in order to modify sensitive economic operator data that is connected to the VCD account.,0,0,0,0,0,0,1,0,0,0,1,0
+2544,The System shall provide the capability for an authorized user to adjust Product Generation priorities.,1,0,0,0,0,0,0,0,0,0,1,0
+1666,"Systems supporting OM should have the ability to produce pre-formatted queries and reports to allow faster and more accurate reporting, while still allowing the flexibility of ad-hoc reporting.",1,0,0,0,0,0,0,0,0,0,0,1
+2139,The ETCS trainborne equipment shall indicate on the DMI the information regarding pantograph and power supply.,1,0,0,0,0,0,0,0,0,0,0,0
+7610,User shall always keep control over the activities of ALFRED.,0,0,0,0,0,0,0,0,0,0,1,1
+1596,"The system must allow the administrator to extract statistics of use, standard delay of reply by member/period, percentage of unsuccessful transaction,...",1,0,0,0,0,0,1,0,0,0,0,0
+5701,User shall be able to update their information.,1,0,0,0,0,0,0,0,0,0,0,0
+7045,"All private data uploaded by users will be strictly confidential to other users, and users will be able to report suspicious activity to the security department.",1,0,0,0,0,0,0,0,0,0,1,0
+4828,The application shall match the color of the schema set forth by Department of Homeland Security.,0,0,0,1,1,0,0,0,0,0,0,0
+4619,The BE shall replace all invalid data with zero values.,1,0,0,0,0,0,0,0,0,0,1,0
+5704,"User shall be able to log in as a student, admin, or company.",1,0,0,0,0,0,0,0,0,0,1,0
+3947,"The system shall empower end-users to manage their private data, including the option to delete their personal repository.",1,0,0,0,0,0,0,0,0,0,0,0
+9277,User shall incorporate encryption techniques in the user/license authentication process for security.,0,0,0,0,0,0,0,0,0,0,1,0
+4573,"The system should be able to handle parameter changes in three ways: single parameter, subset of settings, and pre-defined parameter set switching.",1,0,0,0,0,0,0,0,0,0,0,0
+4367,The system shall perform searches via Dijkstra's shortest path algorithm.,1,0,0,0,0,0,0,0,0,0,0,0
+5465,Restaurants shall assign delivery boys to deliver orders.,1,0,0,0,0,0,0,0,0,0,0,0
+5423,User shall be able to search for transportation routes.,1,0,0,0,0,0,0,0,0,0,0,0
+3470,"ELSS must retain all logbook reports and any corrections on the system at least until the end of each trip, i.e. on submission of the electronic landing declaration or of a transhipment report.",1,1,0,1,0,0,0,0,0,0,0,0
+7243,The system shall integrate with various data analysis and storage platforms.,0,0,0,0,0,0,1,0,1,0,0,0
+8684,"Administrator shall be able to generate reports, log files, and backup/recover data at any time.",1,1,1,0,0,0,1,0,0,0,0,0
+7062,System shall display a confirmation message upon successful registration of the LeetCode account.,1,0,0,0,0,0,0,0,0,0,0,0
+2511,"The System shall comply with ESPC (DoC/NOAA/NESDIS) procedures and policies as stated in the NOAA IT Security Manual 212-1300, Version 3.3, dated May 15, 2007.",0,0,0,1,0,0,0,0,0,0,1,0
+3186,The liability of the European Service Provider MUST be defined.,0,0,0,1,0,0,0,0,0,0,0,0
+4276,System shall be able to utilize Geolocation scripts to determine the user's location.,1,0,0,0,0,0,0,0,0,0,0,0
+2146,It shall be possible to send plain text messages from track to train.,1,0,0,0,0,0,0,0,0,0,0,0
+2685,Have a decision tree for the help desk personnel that will receive questions.,1,0,0,0,0,0,0,0,0,0,0,1
+3026,"For each genre and format of material, ability to compare the percentage of total circulations, the percentage of the collection, and the percentage of total shelf space that genre/format comprises. Ability to report per library and per system.",1,0,0,0,0,0,0,0,0,0,0,0
+638,The system shall debit the userâ€™s account upon withdrawal of funds.,1,0,0,0,0,0,0,0,0,0,0,0
+1427,The View/Select Text menu item shall provide an interface for selecting pretty-printed text or text strings associated with SDT displays.,1,0,0,0,0,0,0,0,0,0,0,0
+7713,System shall offer quick access to training options from the home page.,1,0,0,0,1,0,0,0,0,0,0,1
+368,The System shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.,0,0,0,0,0,0,0,0,0,0,1,0
+7720,System shall ensure visibility of all sponsored events for user engagement.,1,0,0,0,0,0,0,0,0,0,0,0
+4295,System shall be able to replace the main site image and description with the corresponding ones from a clicked thumbnail image on the sites page.,1,0,0,0,0,0,0,0,0,0,0,0
+8870,System shall process the account deletion request and update the database accordingly.,1,0,0,0,0,0,0,0,0,0,0,0
+8779,The system shall print a formatted bill for the customer.,1,0,0,0,1,0,0,0,0,0,0,0
+9406,User's authentication credentials shall be encrypted and protected against brute force attacks.,0,0,0,0,0,0,0,0,0,0,1,0
+2620,"For this requirement, page refers to any distinct upload point (e.g., an assignment, a wiki page, a forum post, etc.).",0,0,0,0,0,0,0,0,0,0,0,0
+4899,User shall be able to initiate a dispute case and perform follow-up actions in real-time via the Disputes System.,1,0,0,0,0,0,0,1,0,0,0,0
+5793,"User shall have a detailed activity log maintained, capturing actions such as logins, logouts, sales transactions, purchases, and any system operations.",1,0,0,0,0,0,0,0,0,0,0,0
+568,The product shall provide Monitoring Services.The product shall be easy for System Administrators and DBAs to use after two weeks of usage.,1,0,0,0,0,0,0,0,0,0,0,1
+6565,User shall be able to log in to theaa.com by providing a valid user ID and password.,1,0,0,0,0,0,0,0,0,0,0,0
+1200,"There are two events that shall result in an alarm condition: 1) an invalid temperature value is reported from a thermostat, or 2) the reported temperature has exceeded the defined limits. This process shall determine which alarm event is to be generated.",1,0,0,0,0,0,0,0,0,0,0,0
+30,The system shall allow a real estate agent to query MLS information,1,0,0,0,0,0,0,0,0,0,0,0
+4012,System shall be able to navigate between POIs on the campus.,1,0,0,0,0,0,0,0,0,0,0,0
+8316,System shall be compatible with specified platforms.,0,0,0,0,0,0,0,0,1,0,0,0
+7505,The system shall provide guidance to new publishers after signup.,1,0,0,0,0,0,0,0,0,0,0,1
+1146,All user are authenticated by user name and a password.,0,0,0,0,0,0,0,0,0,0,1,0
+8523,User shall be able to log in with their email and password and receive a message indicating successful sign-in.,1,0,0,0,0,0,0,0,0,0,0,1
+417,Izogn Administrator must be able to update the category listings on the website within 2 minutes.,1,0,0,0,1,0,0,1,0,0,0,1
+7721,System shall facilitate convenient payment processing for individual sponsorships.,1,0,0,0,0,0,0,0,0,0,0,1
+2906,Ability for the data center admin to do near-time replication to alternate site.,1,1,1,0,0,0,1,0,0,0,0,0
+7633,User shall have access to a videophone feature.,1,0,0,0,0,0,0,0,0,0,0,0
+81,A class shall be either a non-clinical class or a clinical class.,1,0,0,0,0,0,0,0,0,0,0,0
+8290,System shall have a logical interface for ease of use and common tasks.,0,0,0,0,1,0,0,0,0,0,0,1
+1384,The Application/Delete menu item shall provide an interface for deleting an application and all the files in the application directory. The HATS-GUI shall prompt the user to confirm deletion prior to completing this action.,1,0,0,0,0,0,0,0,0,0,0,1
+5863,"User shall have the ability to search for jobs by keywords, category, and work status.",1,0,0,0,0,0,0,0,0,0,0,0
+252,The product shall run on the existing hardware for all environments.,0,0,0,0,0,0,0,0,1,0,0,0
+795,Control the database and keep track of all records of customers and employee details.,1,0,0,0,0,0,1,0,0,0,0,0
+2589,The system must provide a blog engine.,1,0,0,0,0,0,0,0,0,0,0,0
+305,The product shall record updated meeting agendas.,1,0,0,0,0,0,0,0,0,0,0,0
+2288,A train shall be supervised to its static and dynamic train speed profiles.,1,0,0,0,0,0,0,0,0,0,0,0
+4092,Administrators shall be able to modify the list of TU/e related Facebook sites.,1,0,0,0,0,0,0,0,0,0,0,0
+6413,"User shall be able to delete a connection by selecting it and clicking the ""Delete"" button.",1,0,0,0,0,0,0,0,0,0,0,0
+5713,The system shall be optimized for high performance by clearly separating the business logic from the UI.,0,0,0,0,0,1,0,1,0,0,0,0
+766,The system should need to be entirely self-supporting since the users would be using it only to register courses.,0,0,0,0,0,1,1,0,0,0,0,0
+544,The product shall ensure that only supervisors can view schedule of all callers.The product must ensure that supervisors are allowed to access advertise empty time slots.,1,0,0,0,0,0,0,0,0,0,1,0
+3425,The Development Team shall perform weekly integrations of the [SYSTEM NAME] system and deploy these system updates to the Staging environment.,0,0,0,0,0,1,1,0,0,0,0,0
+107,Program Administrators and Nursing Staff Members shall be able to add new classes to a sequence of classes,1,0,0,0,0,0,0,0,0,0,0,0
+7061,"User shall be able to interact with the platform to create a LeetCode account, providing their email, username, and password.",1,0,0,0,0,0,0,0,0,0,0,0
+3610,Healthcare administrators shall manage user roles and permissions.,1,0,0,0,0,0,0,0,0,0,1,0
+4197,The database will use the generic representations from R4.2.2.1 as table names or column headers for easier retrieval of data.,0,0,0,0,0,1,1,0,0,0,0,0
+2727,"Track and measure alternative source projects: Surface water or stormwater projects, Reclaimed water (reuse water), Augmented surface water (reservoirs, harvesting of high flows (floodwaters), ASR (Aquifer storage recovery), Desalination.",1,0,0,0,0,0,0,0,0,0,0,0
+4948,"The system shall resolve the zipcode for the street address, city, and state if zipcode is unknown.",1,0,0,0,0,0,0,0,0,0,0,0
+15,The system shall allow a user to define the time segments,1,0,0,0,0,0,0,0,0,0,0,0
+3774,The system should implement multi-region deployments for redundancy.,0,1,1,0,0,0,0,0,0,1,0,0
+4863,Students added to a cohort shall be eligible for the cohort’s Program of Study.,1,0,0,0,0,0,0,0,0,0,0,0
+1,The system shall refresh the display every 60 seconds.,1,0,0,0,0,0,0,1,0,0,0,0
+7821,System shall facilitate bulk updates of enum values with efficient backend changes.,1,0,0,0,0,1,1,1,0,0,0,0
+2534,The System shall be capable of reformatting Data Products into HDF5.,1,0,0,0,0,0,0,0,0,0,0,0
+1781,The system shall be capable of tracking login and logout activity.,1,0,0,0,0,0,0,0,0,0,0,0
+5010,The Moderator shall know who has not finished casting their votes.,1,0,0,0,0,0,0,0,0,0,0,0
+8863,System shall process the user's input and perform the desired action in the application interface.,1,0,0,0,0,0,0,0,0,0,0,0
+8699,The software shall interact with keyboard keystrokes for data entry.,1,0,0,0,0,0,0,0,0,0,0,0
+4162,"Users shall be able to search for items by filtering by price, location, and category.",1,0,0,0,0,0,0,0,0,0,0,0
+6787,"The system shall define data for monitoring digital wellbeing metrics (e.g., app usage, sleep patterns).",1,0,0,0,0,0,0,0,0,0,0,0
+669,The online registration system is â€œself-service styleâ€� system that shall initially address the student registration needs.,1,0,0,0,0,0,0,0,0,0,0,0
+8103,System interface must be compatible with specialist software and suitable for users with special needs.,0,0,0,0,0,0,0,0,1,0,0,1
+8589,The system shall allow users to import MIDI files.,1,0,0,0,0,0,0,0,0,0,0,0
+5551,System shall be able to develop the front end using Java and utilize MySQL for the back end.,0,0,0,0,0,0,0,0,1,0,0,0
+5818,User shall have the ability to remove stored locations.,1,0,0,0,0,0,0,0,0,0,0,0
+5156,"User shall have access to LLU phone numbers, emails, local resources, personal contacts, and healthcare providers on the Contacts page.",1,0,0,0,0,0,0,0,0,0,0,0
+8967,The system shall prompt the user to enter the desired height and width of the cropped image.,1,0,0,0,0,0,0,0,0,0,0,0
+4908,"System shall provide a confirmation to the user upon the creation of a ticket retrieval request, including the dispute case number, type of retrieval requested, and due date for the merchant response.",1,0,0,0,0,0,0,0,0,0,0,0
+2756,"Ability to pull a well package that provides a view of water use at a particular time that is then plugged into models used to generate water use amounts. The data would include wells, land elevation, aquifer, and total and cased depths.",1,0,0,0,0,0,0,0,0,0,0,0
+6745,There shall be an option for users to wait if they would like to see if tickets for a particular show might become available.,1,0,0,0,0,0,0,0,0,0,0,0
+5226,Users shall provide a valid email address.,1,0,0,0,0,0,0,0,0,0,0,0
+7494,The system shall allow consumers to download data packages as a single file.,1,0,0,0,0,0,0,0,0,0,0,0
+2166,Actual speed shall still be shown on the DMI.,1,0,0,0,1,0,0,0,0,0,0,0
+4814,This unit will receive a text string from the URL parameter.,1,0,0,0,0,0,0,0,0,0,0,0
+7975,Administrators shall create deposit groups.,1,0,0,0,0,0,0,0,0,0,0,0
+3284,The right granularity and consistency of criteria MUST be found through testing and iterative redefinition in order to ensure legitimacy and to retrieve adequate mapping results.,1,0,0,0,0,1,0,0,0,0,0,0
+8842,User shall carefully select installation options during the software installation process.,1,0,0,0,0,0,0,0,0,0,0,0
+347,The product shall be able to process 10 000 transactions per hour within two years of its launch. This number will increase to 20 000 by Release 2.,0,0,0,0,0,0,0,0,0,1,0,0
+5748,"User shall be able to view and update the details of an existing patient profile, with only the latest details maintained by the system.",1,0,0,0,0,0,0,0,0,0,0,0
+7955,The system shall allow researchers to search OCRed text in digitized documents.,1,0,0,0,0,0,0,0,0,0,0,0
+9592,System shall be able to check if the user account is valid.,1,0,0,0,0,0,0,0,0,0,0,0
+5639,System shall maintain the book status as Rejected/Canceled if the administrator rejects the requested book.,1,0,0,0,0,0,0,0,0,0,0,0
+762,An end-user may use this system on any OS; either it is Windows or Linux.,0,0,0,0,0,0,0,0,1,0,0,0
+8511,"Administrator shall have authority to set rules, regulations, and policies.",1,0,0,0,0,0,0,0,0,0,1,0
+5363,"Access shall be granted if the credentials are valid; otherwise, access shall be denied.",0,0,0,0,0,0,0,0,0,0,1,0
+1163,Any university group member can add all assets in the inventory.,1,0,0,0,0,0,0,0,0,0,1,0
+8283,System shall utilize cryptographic techniques for user authentication (future version).,1,0,0,0,0,0,0,0,0,0,1,0
+5290,"User shall initiate the play function by selecting the play icon, transitioning the menu screen to the play game screen.",1,0,0,0,0,0,0,0,0,0,0,0
+8854,User shall provide the necessary permissions to allow the application to interact with social media apps on their device.,1,0,0,0,0,0,0,0,0,0,1,0
+7774,System shall support interoperability with external metadata tools and systems.,1,0,0,0,0,0,0,0,1,0,0,0
+1262,"When the GUI application is initiated, the user shall be prompted for the following information: User name, Password",1,0,0,0,0,0,0,0,0,0,0,0
+1454,"Observational Mode â€“ The BE shall receive, via M&C, data and parameters specific to the current EVLA Observational Mode needed for processing the Correlator Lag values.",1,0,0,0,0,0,0,0,0,0,0,0
+5354,User shall be able to search for specific content using keywords.,1,0,0,0,0,0,0,0,0,0,0,0
+6875,"The system shall respond to user actions within an acceptable time frame (e.g., 2 seconds).",1,0,0,0,0,0,0,1,0,0,0,0
+1531,"Monitor Compute Errors â€“ The BE shall trap, flag and repair infâ€™s, NaNâ€™s, underflows, overflows and other computation errors. Accumulate computation error statistics and compare against tolerances. Report all out of tolerance conditions.",1,0,1,0,0,1,1,0,0,0,0,0
+4589,Science analysis software shall be integrated into the NASA approved data repository.,1,0,0,1,0,0,1,0,0,0,0,0
+7712,System shall provide a user-friendly landing page for browsing training offerings.,1,0,0,0,0,0,0,0,0,0,0,1
+701,System will use secured database.,0,0,0,0,0,0,0,0,0,0,1,0
+6158,Updates to the Teams app shall be delivered through mechanisms that minimize or eliminate impact on ongoing meetings.,0,1,1,0,0,0,0,0,0,0,0,0
+6498,User shall be able to delete emails from their inbox or other folders.,1,0,0,0,0,0,0,0,0,0,0,0
+6551,"System shall ensure users can log out of their accounts securely, preventing unauthorized access.",1,0,0,0,0,0,0,0,0,0,1,0
+5749,"User shall be able to delete a patient profile, provided no consultation requests have been made in the last 3 years.",1,0,0,0,0,0,0,0,0,0,0,0
+933,The system shall allow user to select the order from the order history.,1,0,0,0,0,0,0,0,0,0,0,0
+2255,"It shall be possible to apply the train trip function, if the shunting movement passes a signal showing ""danger for shunting"".",1,0,0,0,0,0,0,0,0,0,0,0
+9501,"User shall specify desired report criteria, and the system shall display the report accordingly.",1,0,0,0,0,0,0,0,0,0,0,0
+2907,Ability for the data center admin to do real-time replication to alternate site.,1,1,1,0,0,0,1,0,0,0,0,0
+6215,A supervisor shall be able to issue a refund for one or more items to a customer.,1,0,0,0,0,0,0,0,0,0,0,0
+3468,"Prior to registering a product for approval, a test address for all test email transmissions and test logon details to the UK fisheries administrationsâ€™ ERS system will be provided on request. All requests should be made by contacting the Validation Authority by email in the first instance. The email address is ERS-Logbook-Approvals@NCCGroup.com.",0,0,0,0,0,0,1,0,0,0,0,0
+322,The product92s Look and Feel shall be able to incorporate aspects of the customer92s organization such as logo branding and identity,0,0,0,0,1,0,0,0,0,0,0,0
+7110,Admin shall have access to a dashboard monitoring all site statuses and user activities.,1,0,0,0,0,0,0,0,0,0,1,0
+2418,The DUAP Input Services shall be able to collect weather data from Michigan Department of Natural Resources (MDNR) weather information systems using the MDNR interface.,1,0,0,0,0,0,0,0,0,0,0,0
+9233,"User shall be able to send money by entering recipient's mobile number, email ID, or name, and providing recipient's account number and the amount.",1,0,0,0,0,0,0,0,0,0,0,0
+2621,The system must allow for multiple file upload to be configured on a per-page basis.,1,0,0,0,0,0,0,0,0,0,0,0
+5058,Delivery boy shall be able to toggle Online/Offline/Break option.,1,0,0,0,0,0,0,0,0,0,0,0
+2437,The DUAP System shall log Input Services data transactions.,1,0,0,0,0,0,0,0,0,0,0,0
+6819,"The system shall offer validation rules to ensure data entered meets specific criteria (e.g., positive numbers only).",1,0,0,0,0,0,0,0,0,0,1,0
+5781,System shall ensure that prescriptions are mapped to one and only one chemist or lab based on the patient's pincode.,1,0,0,0,0,0,0,0,0,0,0,0
+3150,It MUST be clarified which are the best access points for economic operators to use the infrastructure for transportation of a VCD package.,0,0,0,0,0,0,1,0,0,0,0,0
+9443,"User shall hear spoken output in the target language generated from translated text, enhancing accessibility and pronunciation assistance.",1,0,0,0,0,0,0,0,0,0,0,1
+9432,"Only the project admin shall have backend database access, allowing for secure modifications and updates.",0,0,0,0,0,0,0,0,0,0,1,0
+89,Program Administrators and Nursing Staff Members shall be able to add clinical classes or sections to a sequence of classes,1,0,0,0,0,0,0,0,0,0,0,0
+4485,"The CO will be able to recognise ""almost finished"" sets of tiles (i.e. 2 tiles in a sequence is an almost finished Chow) and will not discard tiles in such sets.",1,0,0,0,0,0,0,0,0,0,0,0
+3990,The system shall display a launcher to the Twitter-app version 3.1.10 on the main menu.,1,0,0,0,0,0,0,0,0,0,0,0
+5874,An option to remain anonymous on the CV database while allowing employers/agencies to email candidates shall be provided.,1,0,0,0,0,0,0,0,0,0,1,0
+132,Students added to a cohort shall be eligible for the cohort92s Program of Study.,1,0,0,0,0,0,0,0,0,0,0,0
+9425,System shall facilitate the addition of new blogs by validating input data and updating the database accordingly.,1,0,0,0,0,0,0,0,0,0,1,0
+8828,System shall verify the password during installation to ensure the antivirus copy is valid.,1,0,0,0,0,0,0,0,0,0,1,0
+3594,The platform should support multilingual interfaces.,0,0,0,0,0,0,0,0,0,0,0,1
+2228,The ceiling speed value for the unfitted operation is determined by the lower value out of Maximum train speed and National value for unfitted operation.,1,0,0,0,0,0,0,0,0,0,0,0
+7417,The system shall allow parents to message their child's counselors.,1,0,0,0,0,0,0,0,0,0,0,0
+3860,Healthcare providers shall access patient behavioral health data within the system.,1,0,0,0,0,0,0,0,0,0,1,0
+4966,"When creating a new session, the session creator shall assign the session a name.",1,0,0,0,0,0,0,0,0,0,0,0
+1513,"Failure Report â€“ internal system component (e.g., disk drive, processors, processes, and networks) failure number (translatable into text error message) and time stamp.",1,0,0,0,0,1,1,0,0,0,0,0
+6132,The Memories shall provide cloud-based storage for a limited number of user-uploaded snaps.,1,0,0,0,0,0,0,0,0,0,0,0
+790,Keep track of each product itemâ€™s stocks for selling purpose.,1,0,0,0,0,0,0,0,0,0,0,0
+2234,"If track data at least to the location where the relevant movement authority ends are not available on-board, the movement authority shall be rejected.",1,0,0,0,0,0,0,0,0,0,0,0
+4512,"At every waypoint and every 5 minutes, the TCS shall compute the AV's flight range based on remaining fuel.",1,0,0,0,0,0,0,1,0,0,0,0
+7414,The system shall allow parents to submit various types of forms to camp management.,1,0,0,0,0,0,0,0,0,0,0,0
+7597,System shall provide intuitive and user-friendly interfaces for creating log book page templates.,1,0,0,0,0,0,0,0,0,0,0,1
+2928,Ability for the user to share contact lists / address book.,1,0,0,0,0,0,0,0,0,0,0,0
+6171,A surface computer shall provide a customer with all customer system functionality.,1,0,0,0,0,0,0,0,0,0,0,0
+37,The realtor shall be able to retrieve a map showing property locations for a specified area,1,0,0,0,0,0,0,0,0,0,0,0
+5971,The system shall confirm the successful creation of a new user account.,1,0,0,0,0,0,0,0,0,0,0,0
+5504,User shall be able to input and store personal details of students.,1,0,0,0,0,0,0,0,0,0,0,0
+8346,Customer shall be able to order items from wallet amount.,1,0,0,0,0,0,0,0,0,0,0,0
+6847,The system shall allow users to collect responses and view submitted data.,1,0,0,0,0,0,0,0,0,0,0,0
+48,The product is expected to run on Windows CE and Palm operating systems.,0,0,0,0,0,0,0,0,1,0,0,0
+4533,The TCS shall provide the necessary system capabilities required for AV flight control BLOS via uplink command to two MAE air vehicles.,1,0,0,0,0,0,0,0,0,0,0,0
+1786,The system shall be capable of operating with a single-sign-on authentication mechanism based on Active Directory Services or the LDAP standard.,1,0,0,0,0,0,0,0,0,0,1,0
+2961,Ability for the agency admin to provide a server based archiving solution.,1,0,0,0,0,0,1,0,0,0,0,0
+7553,User shall share a dataset type previously deployed as part of an app.,1,0,0,0,0,0,0,0,0,0,0,0
+3051,Management Processes shall provide a development and training environment with the ability to migrate configurations to a production environment.,1,0,0,0,0,0,1,0,0,0,0,0
+9335,"System shall customize the user's homepage based on previous interactions, including wish-list additions, page views, and previous searches.",1,0,0,0,0,0,0,0,0,0,0,1
+8823,System shall display an error message and terminate installation if the authorization dialog receives a negative answer from the service provider.,1,0,0,0,0,0,0,0,0,0,0,0
+7607,User shall be able to receive information from ALFRED through speech technology.,1,0,0,0,0,0,0,0,0,0,0,0
+1079,"The System must be able to capture and store violations (i.e. A userâ€™s attempts to access a case to which he is denied access), and (where violations can validly be attempted) attempted violations, of access control mechanisms.",1,0,0,0,0,0,0,0,0,0,1,0
+6443,The server hosting the E-learning web application shall have its own security measures to prevent unauthorized write/delete access.,0,0,0,0,0,0,0,0,0,0,1,0
+6201,A waiter shall be able to deactivate a surface computer and consequently close its associated account through a tablet.,1,0,0,0,0,0,0,0,0,0,0,0
+9588,System shall be able to log the dispensed amount against device information and send a response to the central system.,1,0,0,0,0,0,1,0,0,0,0,0
+1112,"Customers will be able to create accounts to store their customer profiles, configure contact information, view their purchase history, and confirm orders.",1,0,0,0,0,0,0,0,0,0,0,0
+9493,System shall confirm successful attendance marking.,1,0,0,0,0,0,0,0,0,0,0,0
+1733,"Systems supporting OM must have the capability to capture data for any object involved in an OM investigation, such as a letter, invoice, food item, or any object that cannot be classified as a â€œperson, organization, place, or animal.â€� Collected data may include: name of the object, type, physical descriptors, address, identification number (e.g. serial number, package slip number), and relevant dates and times (e.g., invoice date, shipping date, packaging date).",1,0,0,0,0,0,0,0,0,0,0,0
+5075,Admin shall be able to add promo code/offers.,1,0,0,0,0,0,0,0,0,0,0,0
+6338,"System shall provide a login window with fields for username and password, along with buttons for logging in and registering.",1,0,0,0,1,0,0,0,0,0,0,0
+6928,"The system shall offer functionalities for enhancing scanned documents (e.g., adjusting brightness, contrast).",1,0,0,0,0,0,0,0,0,0,0,0
+7202,An API User shall be able to use data to retrieve data from multiple datasets.,1,0,0,0,0,0,0,0,0,0,0,0
+8022,The system shall prefilter nudity content.,1,0,0,0,0,0,0,0,0,0,0,0
+4002,System shall be able to modify the appearance of the separate launchers.,0,0,0,0,1,0,0,0,0,0,0,0
+2575,The System shall provide an automatic failover capability that will re-create a fully functioning configuration from a failed configuration.,0,1,1,0,0,0,0,0,0,0,0,0
+6916,"The system shall provide features for adjusting font size, background color, and text-to-speech functionality.",1,0,0,0,1,0,0,0,0,0,0,1
+1528,Monitor Networks â€“ The BE shall periodically or upon request check all Backend internal networks and assure that all communication connections are intact and functioning. Report all non-functioning components.,1,1,0,0,0,1,1,0,0,0,0,0
+3147,Every party participating MUST be uniquely identifiable.,1,0,0,0,0,0,0,0,0,0,1,0
+5181,Patients shall have the option to make payments for services provided through the portal.,1,0,0,0,0,0,0,0,0,0,0,0
+5000,Flagged ideas shall go to a separate moderator page for resolution.,1,0,0,0,0,0,0,0,0,0,0,0
+5191,The healthcare portal shall employ industry-standard encryption and security measures to protect patient data from unauthorized access.,0,0,0,0,0,0,0,0,0,0,1,0
+8499,System shall be compatible with AIMS security standards.,0,0,0,1,0,0,0,0,0,0,1,0
+796,Can give feedback to the 24X7 Customer Care Service center about their impression for the site and services.,1,0,0,0,0,0,0,0,0,0,0,0
+5905,"Invoices can be sent to companies, and featured employer showcases can be managed.",1,0,0,0,0,0,0,0,0,0,0,0
+7198,An API User shall be able to use HASC codes for data visualization.,1,0,0,0,0,0,0,0,0,0,0,0
+350,Product formula ingredients shall allow defining substitutionary ingredients.,1,0,0,0,0,0,0,0,0,0,0,0
+2302,Train data shall be entered before the on-board ETCS equipment allows train movement.,1,0,0,0,0,0,0,0,0,0,0,0
+488,The leads washing functionality will validate all leads received by the web service for valid data,1,0,0,0,0,0,0,0,0,0,0,0
+6606,User shall be able to access the login screen.,1,0,0,0,0,0,0,0,0,0,0,0
+8032,The system shall perform automatic animal number detection in Snapshot Serengeti.,1,0,0,0,0,0,0,0,0,0,0,0
+4186,"The system shall be able to condense the output sentence from the Generic Question Construction unit (R4.2.1.3) into a single, concise sentence.",1,0,0,0,0,0,0,0,0,0,0,0
+4719,The system shall allow agents to optionally encrypt messages.,1,0,0,0,0,0,0,0,0,0,1,0
+7173,A Data Publishing User shall be able to edit the data source of imported data.,1,0,0,0,0,0,0,0,0,0,0,0
+6640,System shall display the submitted application form with all entered data.,1,0,0,0,0,0,0,0,0,0,0,0
+5333,"Performance of making recommendations and updating them in real-time is crucial, requiring seamless processing to ensure users do not notice data processing.",0,0,0,0,0,0,0,1,0,0,0,1
+4263,User shall be able to mark an item as a favorite to receive notifications about changes to that item.,1,0,0,0,0,0,0,0,0,0,0,0
+9623,"The system shall enforce robust user authentication, allowing access only through verified and authorized methods.",1,0,0,0,0,0,0,0,0,0,1,0
+3945,The system shall employ encryption for all privacy-sensitive data at rest to ensure both security and basic functionality.,0,0,0,0,0,0,0,0,0,0,1,0
+1019,"Colour should be used with care, taking into account human capabilities and restrictions in perceiving colour, and not as the only means of conveying information. Color should never be the only means of coding. Some users may have difficulties in perceiving certain colors or color combinations (color-blindness).",0,0,0,0,1,0,0,0,0,0,0,1
+734,The user must be able to set an option to hide information based on who has tagged it.,1,0,0,0,0,0,0,0,0,0,1,0
+7316,A Visual Designer shall create a moodboard to aid with visual design concepts for the nsf.gov website.,1,0,0,0,1,0,0,0,0,0,0,0
+9521,An instructor shall be permitted to view and edit absence information in the database for only his/her classes.,1,0,0,0,0,0,0,0,0,0,1,0
+1963,"The system shall eliminate any and all dependencies on workstation (user) control/parameter files for program operation. For example, parameter information required by the NBI Translator (including information currently stored in ELEMENTS.PRN and ERRORS.LST) will be stored strictly within the Pontis database rather than on individual user workstations.",1,0,0,0,0,1,1,0,0,0,0,0
+8629,"More RAM shall allow Illustrator to handle extensive use of drawing tools, complex vector illustrations, and advanced effects without significant lag or slowdown.",0,0,0,0,0,0,0,1,0,1,0,0
+8332,A server shall host the Swiggy App and provide system data processing and storage capability.,1,0,0,0,0,0,1,0,0,0,0,0
+3060,"Management Processes rely on the data structures and functionality of an enterprise-level Library Automation System, including Acquisitions and Cataloging modules.",0,0,0,0,0,0,1,0,1,0,0,0
+6248,System shall allow customers to provide feedback to the customer care service center regarding their experience.,1,0,0,0,0,0,0,0,0,0,0,0
+907,The system shall provide multi language support.,1,0,0,0,0,0,0,0,0,0,0,1
+6856,The system shall be able to handle a high volume of form submissions without performance degradation.,0,0,0,0,0,0,0,1,0,1,0,0
+4933,The search for recycled parts must be completed within 15 seconds.,0,0,0,0,0,0,0,1,0,0,0,0
+9620,The system shall implement measures to prevent unauthorized physical or digital access.,0,0,0,0,0,0,0,0,0,0,1,0
+5012,The Disputes System shall preserve user phases even when moderators revert to a previous phase.,1,0,1,0,0,0,0,0,0,0,0,0
+24,The system shall have a MDI form that allows for the viewing of the graph and the data table.,1,0,0,0,0,0,0,0,0,0,0,0
+4519,"The TCS shall provide the system functionality necessary to generate a payload plan that, as a minimum, shall include the following information:",1,0,0,0,0,0,0,0,0,0,0,0
+6067,The user shall be able to view past exams by tapping a designated menu option on the screen.,1,0,0,0,0,0,0,0,0,0,0,0
+7473,The system shall provide informative error messages (User).,1,0,0,0,0,0,0,0,0,0,0,1
+2664,"Use GIS layers to analyze how salt-water intrusion is affecting water quality, etc. Layer would need to be updated either quarterly or annually.",1,0,0,0,0,1,0,0,0,0,0,0
+5287,System shall guarantee security by not sharing or selling any personal information to third-party companies.,0,0,0,1,0,0,0,0,0,0,1,0
+961,The application should be able to support 100 concurrent users without any performance degradation.,0,0,0,0,0,0,0,1,0,1,0,0
+2454,The DUAP System shall log Dynamic Data Services data transactions.,1,0,0,0,0,0,0,0,0,0,0,0
+648,The meeting scheduler system shall reschedule a meeting to support conflict resolutions.,1,0,0,0,0,0,0,0,0,0,0,0
+8381,"Dispute panel shall manage, if the customer needs replacement of the order or cancellation of the order in case of order not available.",1,0,0,0,0,0,0,0,0,0,0,0
+2826,"Appropriate funding must be acquired to make required upgrades to existing systems, buy additional hardware and software, and acquire skilled personnel to develop project.",0,0,0,0,0,1,0,0,0,0,0,0
+1156,Within the same department: data base can be updated directly without any request.,1,0,0,0,0,0,0,0,0,0,1,0
+4029,System shall be able to allow users to switch between the stylistic and satellite map views.,1,0,0,0,0,0,0,0,0,0,0,0
+3112,Beside the transportation system (WP8) the economic operator SHOULD be able to use other electronic channels for submitting a VCD package to the contracting authority.,1,0,0,0,0,0,0,0,0,0,0,0
+7088,User shall link their email account to their profile for password recovery.,1,0,0,0,0,0,0,0,0,0,0,0
+2770,"The CAISO shall from time to time undertake performance tests, with or without prior notification.",0,0,0,0,0,1,1,0,0,0,0,0
+5667,User shall access the intra mailing system concurrently with multiple users.,1,0,0,0,0,0,0,0,0,0,0,0
+4274,System shall be able to include a link back to the home page when displaying No results found.,1,0,0,0,0,0,0,0,0,0,0,1
+2702,Do not join features based on the shape column.,1,0,0,0,0,0,0,0,0,0,0,0
+4175,"The user shall be able to edit their existing items, including adding/removing pictures and changing price and details.",1,0,0,0,0,0,0,0,0,0,0,0
+1124,Customers will also be able to add products into the shopping cart.,1,0,0,0,0,0,0,0,0,0,0,0
+971,Within-page links should be clearly distinguishable from other links that lead to a different page. EX. Within-page links are shown with dashed rather than solid underlines,0,0,0,0,1,0,0,0,0,0,0,1
+7922,"The system shall support various metadata elements for collections, objects, components, and files.",1,0,0,0,0,0,0,0,0,0,0,0
+1748,"Systems supporting OM should be capable of using configurable, domain-specific vocabulary.",1,0,0,0,0,0,0,0,0,0,0,0
+9285,User shall integrate error prevention measures such as sanity checks and limiting free-text input for usability.,0,0,0,0,0,0,0,0,0,0,0,1
+1727,"Data describing the health event should be captured, including the reason for the investigation, the category of event (e.g. environmental, infectious), the date the event began, the suspected agent (if known) or investigation focus, the geographic area impacted by the event, as well as the event status (e.g., open, closed).",1,0,0,0,0,0,0,0,0,0,0,0
+4345,The system shall minimize user errors and make error recovery effortless.,0,0,1,0,0,0,0,0,0,0,0,1
+959,Any page of the application should not take more than 6 seconds to load on a DSL broadband connection.,0,1,0,0,0,0,0,1,0,0,0,0
+1818,The administrator shall be able to assign users to application roles.,1,0,0,0,0,0,0,0,0,0,1,0
+8889,System shall ensure the application loads quickly on supported devices.,0,0,0,0,0,0,0,1,0,0,0,0
+9256,Employee shall select availability.,1,0,0,0,0,0,0,0,0,0,0,0
+3890,The campus map shall cover the campus of the TU/e.,1,0,0,0,0,0,0,0,0,0,0,0
+3972,"The system will prioritize error-free expense splitting calculations while offering full app functionality offline, caching financial data until reconnected.",1,1,1,0,0,0,0,0,0,0,0,0
+2317,Communications Interfaces There are no special communication interface requirements,0,0,0,0,0,0,0,0,0,0,0,0
+3054,"The software developer shall provide complete data specifications for authority records, bibliographic records, order records, item records, hold/request records, and other records maintained or accessed by Management Processes.",1,0,0,0,0,0,0,0,0,0,0,0
+4867,Program Administrators and Nursing Staff Members shall be able to add new classes for the nursing department into the system.',1,0,0,0,0,0,0,0,0,0,0,0
+1731,"Systems supporting OM must have the capability to capture data about any public or private gathering of people (e.g., church social, ball game) involved in an OM investigation, including: time, location, nature of the event, etc.",1,0,0,0,0,0,0,0,0,0,0,0
+3773,Users shall have access to a secure messaging system within the platform.,1,0,0,0,0,0,0,0,0,0,1,0
+7882,"System shall support privileged access for external collaborators, ensuring effective collaboration.",1,0,0,0,0,0,0,0,0,0,1,0
+8810,"The system shall be available at all times, only restricted by server downtime, and show a replacement page in case of hardware failure or database corruption.",1,1,1,0,0,0,0,0,0,0,0,0
+6464,System shall store and display the user's comments.,1,0,0,0,0,0,0,0,0,0,0,0
+6943,"The system shall respond to user actions promptly and efficiently, even with a large number of users and expenses.",0,0,0,0,0,0,0,1,0,1,0,0
+9153,System shall present the abstract of the article to the user.,1,0,0,0,0,0,0,0,0,0,0,0
+3502,"Although there are no specific safety requirements, high system reliability is important to insure there are no system failures in carrying out user requests. Such failures might affect the safety of home dwellers (e.g., security breaches, inadequate lighting in dark spaces, inappropriate temperature and humidity for people who are in ill-health, or powering certain appliances when young children are present).",0,1,1,0,0,0,0,0,0,0,0,0
+2869,Users must enable java scripts on their systems to be able to install Whiteboard-Edu software,0,0,0,0,0,0,0,0,0,0,0,1
+6093,The user shall be able to add their Teacher Name for the class.,1,0,0,0,0,0,0,0,0,0,0,0
+2778,The Black Start unit must have the ability to maintain voltage within emergency voltage limits over a range of loading from no external load to full external load in accordance with NERC reliability standards.,1,0,1,1,0,0,0,1,0,0,0,0
+7258,The system shall allow members to write articles for the site with an associated graphic.,1,0,0,0,0,0,0,0,0,0,0,0
+2479,"The System shall be constructed using existing software where it is possible, practical, and approved by the Government. Inventory will be provided to the Contractor by OSDPD IT Lead.",0,0,0,1,0,0,0,0,0,0,0,0
+2134,After the acknowledgement the driver shall be able to continue the movement,1,0,0,0,0,0,0,0,0,0,0,0
+7259,The system shall allow trainers to list their upcoming classes with links to detailed pages.,1,0,0,0,0,0,0,0,0,0,0,0
+4296,System shall be able to display an enlarged version of the main site image when the user clicks on it on the sites page.,1,0,0,0,0,0,0,0,0,0,0,0
+1920,"The user shall be able to specify the characteristics of the simulation, including the simulation timeframe, various thresholds for the simulation, the project types included in the simulation, the needs addressed, and the annual budget for the simulation.",1,0,0,0,0,0,0,0,0,0,0,0
+6119,The system shall prioritize traveler privacy regarding location tracking within the mobility domain.,0,0,0,0,0,0,0,0,0,0,1,0
+4565,The TCS shall be capable of automatically selecting the proper mode of operation for the selected data terminal.,1,0,0,0,0,0,0,0,0,0,0,0
+8977,The Khan Academy platform shall be accessible for use by participating schools.,0,1,0,0,0,0,0,0,0,0,1,0
+7530,The system shall display collection-level replication status on the curator dashboard.,1,0,0,0,0,0,0,0,0,0,0,0
+8905,System shall not function without an internet connection.,0,0,1,0,0,0,0,0,0,0,0,0
+8342,Customer shall be able to disengage bill mode to cancel the billing process through their chosen menu by card.,1,0,0,0,0,0,0,0,0,0,0,0
+3503,Log in to an account shall require entry of an account name and a password.,1,0,0,0,0,0,0,0,0,0,1,0
+6283,System shall employ a secured database for storing information.,0,0,0,0,0,0,0,0,0,0,1,0
+2099,"Since the application must run over the internet, all the hardware shall require to connect internet will be hardware interface for the system. As for e.g. Modem, WAN â€“ LAN, Ethernet Cross-Cable.",0,0,0,0,0,0,1,0,0,0,0,0
+2076,"The integrity of STEWARDS data will be critical to its success as a product. Scientific research and publications will be based on the data obtained through the system. Therefore, extensive data validation and review will be performed both before data are uploaded to the system and as part of the upload process. The system will need policy and procedures protecting the data from intentional or unintentional modifications, and to ensure accurate data are made available.",0,0,0,0,0,1,0,0,0,0,1,0
+4865,Program Administrators and Nursing Staff Members shall be able to add new classes to a sequence of classes.,1,0,0,0,0,0,0,0,0,0,0,0
+266,Only adjusters with a supervisor role can update preferred repair facility ratings. Users without the supervisor role cannot access the repair facility ratings.,1,0,0,0,0,0,0,0,0,0,1,0
+6089,The user shall be able to select the Subject from a drop-down box for the class.,1,0,0,0,0,0,0,0,0,0,0,1
+5466,Restaurants shall receive acknowledgment from delivery boys.,1,0,0,0,0,0,0,0,0,0,0,0
+3045,Management Processes shall operate on a Linux or Solaris server.,0,0,0,0,0,0,1,0,0,0,0,0
+9302,User shall expect the Big Basket server to be operational 24*7 without any interruptions.,0,1,0,0,0,0,0,0,0,0,0,0
+7536,The system shall integrate with Symplectic Elements for bidirectional communication (if needed).,0,0,0,0,0,0,1,0,0,0,0,0
+8556,Users shall be limited to three attempts to enter their password.,0,0,0,0,0,0,0,0,0,0,1,0
+4476,The user will be able to end the game at any stage of the game.,1,0,0,0,0,0,0,0,0,0,0,0
+8452,"User shall have a login screen to enter username, pin, and account number.",1,0,0,0,0,0,0,0,0,0,0,0
+6818,"The system shall define data formats for cells (e.g., currency, percentages, dates) and enforce those formats.",1,0,0,0,1,0,0,0,0,0,0,0
+3066,"System provides a user-friendly interface for designing queries against all record types. Staff can select fields to query; select values from picklist of possible values; select regular expressions from drop-down menu, and use a full range of Boolean operators. Administrators control staff access to tables and fields.",1,0,0,0,0,0,0,0,0,0,1,1
+3529,The system only allows users to change their own passwords.,1,0,0,0,0,0,0,0,0,0,1,0
+7367,The system shall allow inspection staff to create inspections.,1,0,0,0,0,0,0,0,0,0,0,0
+287,The product shall prevent the input of malicious data. The product and/or adjacent hardware/software systems92 data shall remain 100% uncorrupted each time malicious data is input into the product.,0,0,0,0,0,0,0,0,0,0,1,0
+4149,"The system shall be able to delete a restaurant owner upon administrator confirmation, also removing all associated restaurant information.",1,0,0,0,0,0,0,0,0,0,0,0
+8199,"Upon initialization, system shall turn off all heating and cooling units and check thermostat settings.",1,0,0,0,0,0,0,0,0,0,0,0
+1964,The system shall be capable of supporting multiple cost and deterioration models.,1,0,0,0,0,0,0,0,0,0,0,0
+2349,The DUAP System shall store DUAP system configuration data.,1,0,0,0,0,0,0,0,0,0,0,0
+6042,The user shall be able to submit their school start date.,1,0,0,0,0,0,0,0,0,0,0,0
+170,For any systematic (non-user initiated) action that occurs on a case such as the disputes aging process a case activity will be generated. Upon the next logon the user that initiated the dispute case must be notified that a systematic action has occurred on the dispute case.,1,0,0,0,0,0,0,0,0,0,0,0
+268,Product installations and upgrades shall be handled by the middleware technology team within established launch time frames.,0,0,0,0,0,1,0,0,0,0,0,0
+9616,"The system shall provide emergency communication options, including an emergency phone inside and outside the cabin.",1,0,0,0,0,0,0,0,0,0,0,0
+4478,"If a user leaves the game prematurely, a new CO is created on another user's machine to fill their place.",1,0,0,0,0,0,0,0,0,0,0,0
+1143,Web interface should use clear and consistence terminology in such a way that user; with basic experience on internet and office; find the application easy to use.,0,0,0,0,1,0,0,0,0,0,0,1
+5825,Premium Users shall be permitted to make up to 66 calls per day.,1,0,0,0,0,0,0,1,0,0,0,0
+5207,System shall use the current stock value in calculations.,1,0,0,0,0,0,0,0,0,0,0,0
+9069,System shall check if the entered password is valid for the specified cash card.,1,0,0,0,0,0,0,0,0,0,1,0
+316,The product shall allow for customization of start page and views preferences.,0,0,0,0,0,0,0,0,0,0,0,1
+7375,The system shall be available and accessible to users most of the time.,0,1,0,0,0,0,0,0,0,0,0,0
+3017,The system provides reports of missing and damaged items per branch.,1,0,0,0,0,0,0,0,0,0,0,0
+6845,The system shall allow users to preview forms before publishing.,1,0,0,0,0,0,0,0,0,0,0,0
+246,Users shall feel satisfied using the product. 85% of all users will be satisfied with the product.,0,0,0,0,0,0,0,0,0,0,0,1
+1035,The system should support secure virtual private network connections;,1,0,0,0,0,0,0,0,0,0,1,0
+3079,National and local political commitments and service-level agreements MUST ensure that consensuses on roles and responsibilities are built with regard to this solution and in particular the National Service Providers who delivers attestations on demand.,0,0,0,1,0,0,1,0,0,0,0,0
+8865,User shall view their progress within the game through graphics and stats generated by the application.,1,0,0,0,1,0,0,0,0,0,0,0
+5710,Admin shall be able to manage companies.,1,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,30 @@
+# 1. Bảo mật (Tuyệt đối không up key)
+.env
+
+# 2. Python & Môi trường
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+build/
+dist/
+*.egg-info/
+
+# 3. Dữ liệu & Kết quả (Dataset nặng không nên up, kết quả chạy cũng vậy)
+data/raw/
+data/processed/
+outputs/
+# Ngoại lệ: Giữ lại file .gitkeep để giữ cấu trúc thư mục
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!outputs/.gitkeep
+
+# 4. IDE / Editor files (Không cần thiết cho người khác)
+.DS_Store
+.idea/
+.vscode/
+*.swp

@@ -1,0 +1,13 @@
+Label,Kappa,Quality,Human_Count,AI_Count
+Functional (F),0.9272727272727272,Excellent 🌟,365,375
+Availability (A),0.8438150770512286,Excellent 🌟,18,22
+Fault Tolerance (FT),0.9237184703010578,Excellent 🌟,19,22
+Legal (L),0.7669773635153129,Good ✅,15,16
+Look & Feel (LF),0.8140803173029252,Excellent 🌟,27,24
+Maintainability (MN),0.9158060170633139,Excellent 🌟,19,18
+Operability (O),0.7336293007769146,Good ✅,55,45
+Performance (PE),0.9459654178674352,Excellent 🌟,30,29
+Portability (PO),0.7712484749898333,Good ✅,23,18
+Scalability (SC),0.9146174863387978,Excellent 🌟,12,12
+Security (SE),0.8497062440224075,Excellent 🌟,93,85
+Usability (US),0.8488372093023255,Excellent 🌟,50,45

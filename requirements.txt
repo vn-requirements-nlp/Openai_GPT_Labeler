@@ -1,0 +1,8 @@
+openai
+pandas
+openpyxl
+python-dotenv
+tqdm
+scikit-learn
+pydantic
+tenacity
