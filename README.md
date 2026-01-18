@@ -23,7 +23,7 @@ OPENAI_API_KEY=your_key_here
 ## Chạy gán nhãn (03_run_labeling.py)
 Ví dụ (đồng bộ với các script hậu xử lý dùng thư mục `output/`):
 ```powershell
-python src/03_run_labeling.py `
+python src/_03_run_labeling.py `
   --input data/Dataset_Full_EN.csv `
   --promise data/PROMISE-relabeled-NICE.csv `
   --output output/Dataset_Full_EN_labeled.csv `
@@ -53,16 +53,17 @@ Tham số chính:
 
 ## Khôi phục output từ progress (04_recover_labeled_from_progress.py)
 ```powershell
-python src/04_recover_labeled_from_progress.py `
+python src/_04_recover_labeled_from_progress.py `
   --input data/Dataset_Full_EN.csv `
   --progress output/Dataset_Full_EN_labeled.progress.csv `
-  --output output/Dataset_Full_EN_labeled_REBUILT.csv
+  --output output/Dataset_Full_EN_labeled_REBUILT.csv `
+  --id_col ID
 ```
 
 ## Tạo mẫu cho human labeling (05_make_human_sample.py)
 Script dùng các đường dẫn cố định trong file:
 ```powershell
-python src/05_make_human_sample.py
+python src/_05_make_human_sample.py
 ```
 Sinh ra:
 - `output/human_labels_sample_500.csv`
@@ -70,6 +71,6 @@ Sinh ra:
 
 ## Tính kappa giữa human và AI (06_calculate_kappa_final.py)
 ```powershell
-python src/06_calculate_kappa_final.py
+python src/_06_calculate_kappa_final.py
 ```
 Sinh report: `output/Kappa_Reliability_Report.csv`.
